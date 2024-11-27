@@ -1,1 +1,1 @@
-#SimQ: Simulated Quantization Library
+# SimQ: Simulated Quantization Library
