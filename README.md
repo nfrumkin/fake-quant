@@ -1,2 +1,1 @@
-# fake-quant
-Fake Quantization Library
+#SimQ: Simulated Quantization Library
